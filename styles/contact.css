@@ -1,0 +1,33 @@
+#right-section ul{
+    list-style: none;
+    text-align: start;
+    font-size:2vw;
+    margin-left: 4vw;
+    color: #3F48CC;
+    
+}
+#right-section ul li{
+    margin-top: 5vh;
+    color: #3F48CC;
+}
+ ul li i{
+    margin-right: 4.5vw;
+    color:white;
+    background-color: black;
+    padding: 1.7vh;
+    border-radius: 50%;
+ }
+ ul li i:hover {
+
+ 
+ background-color:#f55533;
+ color: black;
+
+}
+ul li a:hover {
+
+ 
+    color: #f55533;
+    
+   
+   }
